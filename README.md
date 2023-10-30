@@ -8,3 +8,4 @@ This is a simple example of using OpenMP in C++ and on VSCode.
 - ninja
 - VSCode
 - OpenMP
+- Cmake VSCode Extension
